@@ -4,7 +4,7 @@
 	 // Enable STL stack.
 	 using namespace std;
 
- int main(int argc, char *argv[]) { //µ{¦¡¶i¤JÂI
+ int main(int argc, char *argv[]) { //Âµ{Â¦Â¡Â¶iÂ¤JÃ‚I
 	
 	 char input[50];
 	 cin >> input; 
@@ -58,6 +58,6 @@
 		
 	}
 
-	 return 0; //µ{¦¡µ²§ôÂI
+	 return 0; //Âµ{Â¦Â¡ÂµÂ²Â§Ã´Ã‚I
 	
 }
